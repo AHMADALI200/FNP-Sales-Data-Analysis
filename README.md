@@ -2,6 +2,11 @@
 **Sales Analysis Dashboard**
 This repository showcases a professionally designed Sales Analysis Dashboard built in Microsoft Excel. It transforms raw sales data into actionable insights through clean visuals, structured metrics, and interactive charts—ideal for business reviews, portfolio presentation, or academic projects.
 
+**Dataset Used**
+<a href="https://github.com/AHMADALI200/FNP-Sales-Data-Analysis/blob/main/customers.csv ">Customers Tabel</a>
+<a href="https://github.com/AHMADALI200/FNP-Sales-Data-Analysis/blob/main/orders.csv">Orders  Tabel</a>
+<a href="https://github.com/AHMADALI200/FNP-Sales-Data-Analysis/blob/main/products.csv">Products  Tabel</a>
+
 **Project Objective**
 To develop a dynamic dashboard that enables quick interpretation of sales performance across multiple dimensions such as time, location, product category, and customer sentiment. The goal is to support data-driven decision-making through intuitive design and impactful storytelling.
 
