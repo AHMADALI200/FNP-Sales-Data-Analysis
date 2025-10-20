@@ -19,13 +19,7 @@ The dashboard includes the following charts and insights:
 - Top 5 Products by Revenue – Identifies best-selling items
 - Revenue by Hour (Order Time) – Reveals peak sales hours
 - Top 5 Cities by Orders – Maps regional demand and order volume
-
-**Sheet Structure**
-- Dashboard – Main interactive view with KPIs and charts
-- Orders – Raw transactional data
-- Products – Product details and classifications
-- Sheet1 – Supporting calculations or staging data
-
+- 
 **Tools & Techniques**
 - Microsoft Excel
 - Pivot Tables
